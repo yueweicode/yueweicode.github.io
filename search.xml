@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>热爱，从这里开始！</title>
-    <url>/2020/05/08/%E7%83%AD%E7%88%B1%EF%BC%8C%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B%EF%BC%81/</url>
-    <content><![CDATA[<p>奔腾吧，少年 ！<br>      我们要不停地奔赴，寻找最初的梦想，理清层层苦忧，锁定展望方向，才能解开迷团浇开迷<br>雾，终有一个满意的归宿。流水干觞，光阴有限，趁着阳光初早，明媚如鲜，我们还处于人生的最<br>好时期，真情面对各自的美好前程，踏实履行坚定的脚印，才会不枉此生，绽放璀璨的光辉。</p>
-<p>所以，去热爱吧 ！<br>       真正的人生，是内心郁郁葱葱蓬勃灵动地对生活的热爱，真正的碧水，是内心坦坦荡荡从从容<br>容的宁静祥和。那些高低起伏，那些曲折坎坷，只是为了引领我们去看一处与众不同的风景。人生<br>何处不道场，每个人都是岁月的行者。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2020/05/06/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
@@ -23,6 +16,28 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>热爱，从这里开始！</title>
+    <url>/2020/05/08/%E7%83%AD%E7%88%B1%EF%BC%8C%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B%EF%BC%81/</url>
+    <content><![CDATA[<p>奔腾吧，少年 ！<br>      我们要不停地奔赴，寻找最初的梦想，理清层层苦忧，锁定展望方向，才能解开迷团浇开迷<br>雾，终有一个满意的归宿。流水干觞，光阴有限，趁着阳光初早，明媚如鲜，我们还处于人生的最<br>好时期，真情面对各自的美好前程，踏实履行坚定的脚印，才会不枉此生，绽放璀璨的光辉。</p>
+<p>所以，去热爱吧 ！<br>       真正的人生，是内心郁郁葱葱蓬勃灵动地对生活的热爱，真正的碧水，是内心坦坦荡荡从从容<br>容的宁静祥和。那些高低起伏，那些曲折坎坷，只是为了引领我们去看一处与众不同的风景。人生<br>何处不道场，每个人都是岁月的行者。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>安装 Android Studio 没有 AndroidSDK 选项问题</title>
+    <url>/2020/06/04/%E5%AE%89%E8%A3%85Android%20Studio%E6%B2%A1%E6%9C%89AndroidSDK%E9%80%89%E9%A1%B9%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<p>Android Studio版本号：2020年版本</p>
+<h2 id="废话不多说直接进入正题："><a href="#废话不多说直接进入正题：" class="headerlink" title="废话不多说直接进入正题："></a>废话不多说直接进入正题：</h2><p>STEP 1：打开Android Studio 点击 File，找到 Setting 后点进去</p>
+<p><img src="https://img-blog.csdnimg.cn/20200604185149993.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1MDQ0NTQy,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<p>STEP 2：依照图片找到Android SDK</p>
+<p><img src="https://img-blog.csdnimg.cn/20200604185435559.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1MDQ0NTQy,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<p>STEP 3：点击编辑 Edit</p>
+<p><img src="https://img-blog.csdnimg.cn/20200604185628635.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1MDQ0NTQy,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<p>STEP 3：点击进去后会弹出上面的窗口，检查是否勾选后点击 Next 即可</p>
+<p><img src="https://img-blog.csdnimg.cn/20200604190121957.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1MDQ0NTQy,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<p>这就是以上全部内容啦！有疑问的童鞋欢迎评论区留言。</p>
 ]]></content>
   </entry>
 </search>
