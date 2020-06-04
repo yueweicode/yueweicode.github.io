@@ -28,14 +28,15 @@
   <entry>
     <title>安装 Android Studio 没有 AndroidSDK 选项问题</title>
     <url>/2020/06/04/%E5%AE%89%E8%A3%85Android%20Studio%E6%B2%A1%E6%9C%89AndroidSDK%E9%80%89%E9%A1%B9%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<p>Android Studio版本号：2020年版本</p>
-<h2 id="废话不多说直接进入正题："><a href="#废话不多说直接进入正题：" class="headerlink" title="废话不多说直接进入正题："></a>废话不多说直接进入正题：</h2><p>STEP 1：打开Android Studio 点击 File，找到 Setting 后点进去</p>
+    <content><![CDATA[<h2 id="安装-Android-Studio-没有-AndroidSDK-选项问题"><a href="#安装-Android-Studio-没有-AndroidSDK-选项问题" class="headerlink" title="安装 Android Studio 没有 AndroidSDK 选项问题"></a>安装 Android Studio 没有 AndroidSDK 选项问题</h2><p>Android Studio版本号：2020年版本</p>
+<p>废话不多说直接进入正题：</p>
+<h3 id="STEP-1："><a href="#STEP-1：" class="headerlink" title="STEP 1："></a>STEP 1：</h3><p>打开Android Studio 点击 File，找到 Setting 后点进去</p>
 <p><img src="https://img-blog.csdnimg.cn/20200604185149993.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1MDQ0NTQy,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
-<p>STEP 2：依照图片找到Android SDK</p>
+<h3 id="STEP-2："><a href="#STEP-2：" class="headerlink" title="STEP 2："></a>STEP 2：</h3><p>依照图片找到Android SDK</p>
 <p><img src="https://img-blog.csdnimg.cn/20200604185435559.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1MDQ0NTQy,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
-<p>STEP 3：点击编辑 Edit</p>
+<h3 id="STEP-3："><a href="#STEP-3：" class="headerlink" title="STEP 3："></a>STEP 3：</h3><p>点击编辑 Edit</p>
 <p><img src="https://img-blog.csdnimg.cn/20200604185628635.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1MDQ0NTQy,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
-<p>STEP 3：点击进去后会弹出上面的窗口，检查是否勾选后点击 Next 即可</p>
+<h3 id="STEP-3：-1"><a href="#STEP-3：-1" class="headerlink" title="STEP 3："></a>STEP 3：</h3><p>点击进去后会弹出上面的窗口，检查是否勾选后点击 Next 即可</p>
 <p><img src="https://img-blog.csdnimg.cn/20200604190121957.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1MDQ0NTQy,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
 <p>这就是以上全部内容啦！有疑问的童鞋欢迎评论区留言。</p>
 ]]></content>
